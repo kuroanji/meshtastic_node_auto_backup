@@ -13,3 +13,7 @@ This implementation adds a robust backup/restore system for Meshtastic node sett
 - `Auto backup` on shutdown
 - `InkHUD menu UI` for manual backup/restore
 - `Admin message support` for remote backup commands
+
+### Merge branch
+
+https://github.com/kuroanji/firmware/tree/auto_backup
