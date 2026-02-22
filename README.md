@@ -1,6 +1,6 @@
 # Meshtastic node Backup/Restore Implementation
 
-### TL:DR
+### TL;DR
 
 Prevents node settings reset on power failure/device instabilities
 
